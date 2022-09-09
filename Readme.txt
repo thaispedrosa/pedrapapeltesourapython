@@ -1,0 +1,1 @@
+Jogue com o computador Pedra, Papel e Tesoura!
